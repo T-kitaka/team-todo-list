@@ -1,3 +1,4 @@
+
 h1 {
     margin: 10px;
     padding: 10px;
@@ -5,3 +6,11 @@ h1 {
     color: red;
     background: white;  /* 배경색 흰색 추가 */
 }
+  
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
